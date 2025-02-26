@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/XiomyToffoletti/XiomyToffoletti/blob/main/bg-gh.png" width="auto" height="300" /></p>
 
 <h1 align="center"> Hi👋, I'm Xiomara Toffoletti</h1>
 
